@@ -24,14 +24,14 @@ h1
 #box 
 {
     width: 100%;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     align-content: center;
     border-radius: 10px;
     box-shadow: 1px 2px 6px 2px rgb(219, 219, 219);
 }
 #box:hover
 {
-    box-shadow: 1px 6px 3px 0 rgb(185, 185, 185);
+    box-shadow: 1px 6px 3px 0 rgb(210, 132, 132);
 }
 #containerClothing img
 {
@@ -65,7 +65,7 @@ h4
 }
 h2
 {
-    color: rgb(3, 94, 94);
+    color: rgb(0, 0, 0);
 }
 
 /* ----------------------------- MEDIA QUERY --------------------------- */
