@@ -5,8 +5,8 @@ body
 #badge
 {
     position: absolute;
-    background-color: rgb(255, 30, 30);
-    color: white;
+    background-color: rgb(255, 255, 255);
+    color: rgb(97, 58, 58);
     border-radius: 50%;
     padding: 5px 8px;
     font-size: 14px;
@@ -15,7 +15,7 @@ body
 }
 #container
 {
-    background-color: white;
+    background-color: rgb(152, 66, 66);
     margin: auto;
     text-align: center;
     width: 100%;
@@ -44,7 +44,7 @@ body
 #shopName > b
 {
     font-weight: 900;
-    font: black;
+    font: rgb(255, 255, 255);
 }
 
 #collection
@@ -90,7 +90,7 @@ body
     width: 35em;
     height: 3em;
     padding: 2px 50px;
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(238, 156, 156);
     border: none;
     border-radius: 5px;
 }
